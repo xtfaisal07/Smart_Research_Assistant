@@ -106,13 +106,6 @@ smart-research-assistant/
 
 ---
 
-## 🎥 Demo Photo/Video 
-
-
-
-📹 Loom: [https://www.loom.com/share/your-demo-link](https://www.loom.com/share/7428481428be46c683076394076ecd04?sid=bec0108d-2ef9-4b83-85c0-7c351c55aaed)
-
----
 
 ## 🧑‍💻 Author
 
