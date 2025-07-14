@@ -100,7 +100,7 @@ smart-research-assistant/
 
 - Python 3.10+
 - Streamlit
-- OpenAI / Perplexity API
+- GeminiAI / Perplexity API
 - LangChain (optional)
 - PyMuPDF or pdfminer.six (PDF parsing)
 
