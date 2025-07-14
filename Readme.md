@@ -85,7 +85,7 @@ smart-research-assistant/
 
 - **main.py** – User interface (Streamlit) and backend interaction
 - **logic.py** – Core logic, LLM interaction, document processing
-- **utils.py** – Helper functions for parsing, prompting, evaluation
+- **utils.py** – Helper function for parsing, prompting, evaluation
 
 ### Flow:
 
