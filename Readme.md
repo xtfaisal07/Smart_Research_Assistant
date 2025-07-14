@@ -1,4 +1,4 @@
-
+ 
 # 🧠 Smart Research Assistant
 
 A GenAI-powered assistant that reads uploaded documents and helps users:
@@ -118,3 +118,7 @@ smart-research-assistant/
 
 **Faisal Naseer**  
 [GitHub](https://github.com/xtfaisal07)
+
+---
+
+Built with ❤️ using Gemini + Streamlit By Faisal Naseer
